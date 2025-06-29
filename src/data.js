@@ -72,7 +72,7 @@ export const housesData = [
     price: '110000',
     agent: {
       image: Agent1,
-      name: 'Patricia Tullert',
+      name: 'Sunita Jain',
       phone: '0123 456 78910',
     },
   },
@@ -93,7 +93,7 @@ export const housesData = [
     price: '140000',
     agent: {
       image: Agent2,
-      name: 'Daryl Hawker',
+      name: 'Ashok Kumar',
       phone: '0123 456 78910',
     },
   },
@@ -114,7 +114,7 @@ export const housesData = [
     price: '170000',
     agent: {
       image: Agent3,
-      name: 'Amado Smith',
+      name: 'Ramesh Singh',
       phone: '0123 456 78910',
     },
   },
@@ -135,7 +135,7 @@ export const housesData = [
     price: '200000',
     agent: {
       image: Agent4,
-      name: 'Kaitlyn Gonzalez',
+      name: 'Ravina Kumar',
       phone: '0123 456 78910',
     },
   },
@@ -156,7 +156,7 @@ export const housesData = [
     price: '210000',
     agent: {
       image: Agent5,
-      name: 'Grover Robinson',
+      name: 'Akshay Patel',
       phone: '0123 456 78910',
     },
   },
@@ -177,7 +177,7 @@ export const housesData = [
     price: '220000',
     agent: {
       image: Agent6,
-      name: 'Karen Sorensen',
+      name: 'Karan Sharma',
       phone: '0123 456 78910',
     },
   },
@@ -219,7 +219,7 @@ export const housesData = [
     price: '30000',
     agent: {
       image: Agent8,
-      name: 'Juana Douglass',
+      name: 'Chhaya Patil',
       phone: '0123 456 78910',
     },
   },
@@ -261,7 +261,7 @@ export const housesData = [
     price: '117000',
     agent: {
       image: Agent10,
-      name: 'Vera Levesque',
+      name: 'Veera Singh',
       phone: '0123 456 78910',
     },
   },
@@ -303,7 +303,7 @@ export const housesData = [
     price: '139000',
     agent: {
       image: Agent12,
-      name: 'Raymond Hood',
+      name: 'Sunit Shettey',
       phone: '0123 456 78910',
     },
   },
@@ -324,7 +324,7 @@ export const housesData = [
     price: '180000',
     agent: {
       image: Agent1,
-      name: 'Patricia Tullert',
+      name: 'Sunita Jain',
       phone: '0123 456 78910',
     },
   },
@@ -345,7 +345,7 @@ export const housesData = [
     price: '213000',
     agent: {
       image: Agent2,
-      name: 'Daryl Hawker',
+      name: 'Omkar Patil',
       phone: '0123 456 78910',
     },
   },
@@ -366,7 +366,7 @@ export const housesData = [
     price: '221000',
     agent: {
       image: Agent3,
-      name: 'Amado Smith',
+      name: 'Amol Deshmukh',
       phone: '0123 456 78910',
     },
   },
@@ -387,7 +387,7 @@ export const housesData = [
     price: '21000',
     agent: {
       image: Agent4,
-      name: 'Kaitlyn Gonzalez',
+      name: 'Shivani Desai',
       phone: '0123 456 78910',
     },
   },
@@ -408,7 +408,7 @@ export const housesData = [
     price: '32000',
     agent: {
       image: Agent5,
-      name: 'Grover Robinson',
+      name: 'Harshad Khan',
       phone: '0123 456 78910',
     },
   },
@@ -429,7 +429,7 @@ export const housesData = [
     price: '38000',
     agent: {
       image: Agent6,
-      name: 'Karen Sorensen',
+      name: 'Anil Kapoor',
       phone: '0123 456 78910',
     },
   },
