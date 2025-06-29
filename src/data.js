@@ -429,7 +429,7 @@ export const housesData = [
     price: '38000',
     agent: {
       image: Agent6,
-      name: 'Anil Kapoor',
+      name: 'Anita Kapoor',
       phone: '0123 456 78910',
     },
   },
